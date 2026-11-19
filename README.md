@@ -1,6 +1,6 @@
 # G. Seth Neifert
 
-Data scientist for internal audit and risk, building AI-enabled audit tools.
+Data scientist & Risk Analyst.
 
 ## Featured projects
 
